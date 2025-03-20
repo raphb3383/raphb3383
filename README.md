@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raph</h1>
-<h3 align="center">"Master 2 MIAGE student | Passionate about IT project management, data warehousing, and creative tech solutions"</h3>
+<h3 align="center">"Master 2 MIAGE student | Passionate about IT project management, secure information systems, and cybersecurity"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
